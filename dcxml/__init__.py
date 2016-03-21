@@ -83,8 +83,8 @@ and print the 15 elements (without the container element)
 
 The container element is by default the ``<oai_dc:dc>`` element:
 
->>> xml.splitlines()[1]
-'<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" ...
+>>> print(xml.splitlines()[1])
+<oai_dc:dc ...
 
 In case you need an ElementTree instead of a string, it's as simple as:
 
