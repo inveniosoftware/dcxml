@@ -44,4 +44,4 @@
 Dublin Core XML generation from Python dictionaries.
 
 * Free software: GPLv2 license
-* Documentation: https://pythonhosted.org/dcxml/
+* Documentation: https://dcxml.readthedocs.io/

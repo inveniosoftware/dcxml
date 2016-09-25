@@ -22,7 +22,7 @@ Installation
 Documentation
 -------------
 
-   http://pythonhosted.org/dcxml/
+   http://dcxml.readthedocs.io/
 
 Happy hacking and thanks for flying Dublin Core XML.
 
