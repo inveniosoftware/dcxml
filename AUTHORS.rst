@@ -5,9 +5,9 @@
     dcxml is free software; you can redistribute it and/or modify it
     under the terms of the MIT License; see LICENSE file for more details.
 
-Authors
-=======
+Contributors
+============
 
-Dublin Core XML generation from Python dictionaries.
-
-- Lars Holm Nielsen <lars.holm.nielsen@cern.ch>
+- Jiri Kuncar
+- Lars Holm Nielsen
+- Tibor Simko
