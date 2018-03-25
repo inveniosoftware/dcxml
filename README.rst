@@ -9,6 +9,9 @@
  Dublin Core XML
 =================
 
+.. image:: https://img.shields.io/github/license/inveniosoftware/dcxml.svg
+        :target: https://github.com/inveniosoftware/dcxml/blob/master/LICENSE
+
 .. image:: https://img.shields.io/travis/inveniosoftware/dcxml.svg
         :target: https://travis-ci.org/inveniosoftware/dcxml
 
