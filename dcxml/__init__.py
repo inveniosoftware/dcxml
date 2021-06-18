@@ -30,7 +30,7 @@ First let's create a Python dictionary with all 15 elements:
 ...     relations = ['Invenio Software'],
 ...     rights = ['MIT'],
 ...     sources = ['Python'],
-...     subject = ['XML'],
+...     subjects = ['XML'],
 ...     titles = ['Dublin Core XML'],
 ...     types = ['Software'],
 ... )
