@@ -57,6 +57,7 @@ and print the 15 elements (without the container element)
   <dc:relation>Invenio Software</dc:relation>
   <dc:rights>MIT</dc:rights>
   <dc:source>Python</dc:source>
+  <dc:subject>XML</dc:subject>
   <dc:title>Dublin Core XML</dc:title>
   <dc:type>Software</dc:type>
 
