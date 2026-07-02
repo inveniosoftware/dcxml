@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2016-2018 CERN.
+# SPDX-FileCopyrightText: 2026 TU Wien.
 # SPDX-License-Identifier: MIT
 
 """Version information for Dublin Core.
@@ -9,4 +10,4 @@ and parsed by ``setup.py``.
 
 from __future__ import absolute_import, print_function
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
